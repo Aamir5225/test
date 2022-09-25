@@ -1,0 +1,153 @@
+body{
+    background-color:#CDF0EA;
+    font-family:"Montserrat";
+}
+/* Kiara */
+.Kira{
+    width:270px;
+    height: 550px;
+    background-color: white;
+    margin-left: 1050px;
+    border-radius: 5px;
+    margin-top:60px;
+    
+}
+img{
+    border-radius: 100%;
+    margin-top:-65px;
+    margin-left: 30px;
+    float: left; 
+}
+
+.k{
+    color: gray;
+    padding-top: 20px;
+}
+.kirap{
+    line-height: 1.2;
+    margin-left: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    color:black;
+}
+h3{
+   margin-left:90px;
+   padding-top:25px; 
+   color:gray;  
+}
+p{
+    margin-left: 90px;
+    margin-top: -10px;
+    line-height: 1.5;
+}
+h2{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:0.9em;
+    margin-top:-20px;
+    padding-left:40px;
+    padding-right:40px;
+    line-height: 1.6;
+}
+
+/* Jonathan */
+
+.jonathan{
+    width: 280px;
+    height: 300px;
+    background-color:#0d4364;
+    border-radius: 5px;
+    margin-left: 750px;
+    position: relative;
+    margin-top: -568px;
+}
+
+.jon{
+    border-radius: 100%;
+    margin-top:-66px;
+    position: fixed;
+    margin-right: 190px;
+    float:right;
+}
+
+.jonp{
+    line-height: 1.2;
+    margin-left: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 1px;
+    color: lightgray;
+}
+
+/* Daniel */
+
+.daniel{
+    width:600px;
+    height: 300px;
+    background-color: blueviolet;
+    border-radius: 5px;
+    margin-top: -320px;
+    margin-left: 130px;
+}
+
+.dan{
+    margin-top:-66px;   
+}
+
+.danip{
+    margin-left:40px;
+    color: lightgray;    
+}
+
+/* patrick */
+
+.patrick{
+    width: 600px;
+    background-color:#172c44;
+    height: 234px;
+    border-radius: 5px;
+    margin-left: 430px;
+}
+
+.patrick-p{
+    color: white;
+}
+
+.pat-h{
+    padding-left:90px;
+}
+
+.pa{
+    color: white;
+}
+
+/* Jeanette */
+
+.Jeanette{
+    width: 280px;
+    height: 234px;
+    background-color: white;
+    margin-top:-250px;
+    margin-left: 129px;
+    border-radius: 5px;
+}
+
+.jean{
+    margin-top: -70px;
+}
+
+.j{
+    color: gray;
+    padding-top: 20px;
+}
+
+.jeanp{
+    margin-top:-14px;
+    margin-left:40px;
+}
+
+.aq{
+    margin-left: 429px;
+    margin-top: -99px;
+}
